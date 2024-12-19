@@ -42,9 +42,3 @@ python "L-System Renderer.py"
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-[Specify your license here]
-
-## Created
-Date: 2024-12-11
